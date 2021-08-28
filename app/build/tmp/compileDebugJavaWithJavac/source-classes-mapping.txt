@@ -1,7 +1,0 @@
-com/example/sensortest/BuildConfig.java
- com.example.sensortest.BuildConfig
-com/example/sensortest/Connector.java
- com.example.sensortest.Connector
-com/example/sensortest/MainActivity.java
- com.example.sensortest.MainActivity
- com.example.sensortest.MainActivity$1
