@@ -1,0 +1,3 @@
+rootProject.name = "ParallaxImageView"
+include ':app', ':library'
+

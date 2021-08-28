@@ -1,0 +1,4 @@
+com/android/irimiaionut/lib_parallaximageview/BuildConfig.java
+ com.android.irimiaionut.lib_parallaximageview.BuildConfig
+com/android/irimiaionut/parallaxImageView/ParallaxImageView.java
+ com.android.irimiaionut.parallaxImageView.ParallaxImageView

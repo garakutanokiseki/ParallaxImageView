@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "J:\\AndroidProjects\\000_OpenSource\\001_Graphics\\ParallaxImageView_conveted\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_backgr.png.flat",
+        "source": "J:\\AndroidProjects\\000_OpenSource\\001_Graphics\\ParallaxImageView_conveted\\app\\src\\main\\res\\drawable-hdpi\\backgr.png"
+    },
+    {
+        "merged": "J:\\AndroidProjects\\000_OpenSource\\001_Graphics\\ParallaxImageView_conveted\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_backgr.png.flat",
+        "source": "J:\\AndroidProjects\\000_OpenSource\\001_Graphics\\ParallaxImageView_conveted\\app\\src\\main\\res\\drawable-ldpi\\backgr.png"
+    },
+    {
+        "merged": "J:\\AndroidProjects\\000_OpenSource\\001_Graphics\\ParallaxImageView_conveted\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_full_style.xml.flat",
+        "source": "J:\\AndroidProjects\\000_OpenSource\\001_Graphics\\ParallaxImageView_conveted\\app\\src\\main\\res\\drawable\\button_full_style.xml"
+    },
+    {
+        "merged": "J:\\AndroidProjects\\000_OpenSource\\001_Graphics\\ParallaxImageView_conveted\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_backgr.png.flat",
+        "source": "J:\\AndroidProjects\\000_OpenSource\\001_Graphics\\ParallaxImageView_conveted\\app\\src\\main\\res\\drawable-mdpi\\backgr.png"
+    },
+    {
+        "merged": "J:\\AndroidProjects\\000_OpenSource\\001_Graphics\\ParallaxImageView_conveted\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_button_full_pressed.png.flat",
+        "source": "J:\\AndroidProjects\\000_OpenSource\\001_Graphics\\ParallaxImageView_conveted\\app\\src\\main\\res\\drawable-ldpi\\button_full_pressed.png"
+    },
+    {
+        "merged": "J:\\AndroidProjects\\000_OpenSource\\001_Graphics\\ParallaxImageView_conveted\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_logo.png.flat",
+        "source": "J:\\AndroidProjects\\000_OpenSource\\001_Graphics\\ParallaxImageView_conveted\\app\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "J:\\AndroidProjects\\000_OpenSource\\001_Graphics\\ParallaxImageView_conveted\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "J:\\AndroidProjects\\000_OpenSource\\001_Graphics\\ParallaxImageView_conveted\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "J:\\AndroidProjects\\000_OpenSource\\001_Graphics\\ParallaxImageView_conveted\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "J:\\AndroidProjects\\000_OpenSource\\001_Graphics\\ParallaxImageView_conveted\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "J:\\AndroidProjects\\000_OpenSource\\001_Graphics\\ParallaxImageView_conveted\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_button_full.9.png.flat",
+        "source": "J:\\AndroidProjects\\000_OpenSource\\001_Graphics\\ParallaxImageView_conveted\\app\\src\\main\\res\\drawable-ldpi\\button_full.9.png"
+    },
+    {
+        "merged": "J:\\AndroidProjects\\000_OpenSource\\001_Graphics\\ParallaxImageView_conveted\\app\\build\\intermediates\\merged_res\\debug\\drawable_background.png.flat",
+        "source": "J:\\AndroidProjects\\000_OpenSource\\001_Graphics\\ParallaxImageView_conveted\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "J:\\AndroidProjects\\000_OpenSource\\001_Graphics\\ParallaxImageView_conveted\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "J:\\AndroidProjects\\000_OpenSource\\001_Graphics\\ParallaxImageView_conveted\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "J:\\AndroidProjects\\000_OpenSource\\001_Graphics\\ParallaxImageView_conveted\\app\\build\\intermediates\\merged_res\\debug\\anim_anim_info_popup.xml.flat",
+        "source": "J:\\AndroidProjects\\000_OpenSource\\001_Graphics\\ParallaxImageView_conveted\\app\\src\\main\\res\\anim\\anim_info_popup.xml"
+    },
+    {
+        "merged": "J:\\AndroidProjects\\000_OpenSource\\001_Graphics\\ParallaxImageView_conveted\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "J:\\AndroidProjects\\000_OpenSource\\001_Graphics\\ParallaxImageView_conveted\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "J:\\AndroidProjects\\000_OpenSource\\001_Graphics\\ParallaxImageView_conveted\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "J:\\AndroidProjects\\000_OpenSource\\001_Graphics\\ParallaxImageView_conveted\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "J:\\AndroidProjects\\000_OpenSource\\001_Graphics\\ParallaxImageView_conveted\\app\\build\\intermediates\\merged_res\\debug\\menu_main.xml.flat",
+        "source": "J:\\AndroidProjects\\000_OpenSource\\001_Graphics\\ParallaxImageView_conveted\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]
